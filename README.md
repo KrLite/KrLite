@@ -53,7 +53,7 @@ good morning, good afternoon and good night.
         media="(prefers-color-scheme: dark)"
         srcset="https://github-readme-stats.vercel.app/api?username=krlite&hide_title=true&theme=material-palenight&show_icons=true&icon_color=656c90&hide=contribs&include_all_commits=true&locale=cn"
        />
-      <img height=190 align=left
+      <img align=left
         src="https://github-readme-stats.vercel.app/api?username=krlite&hide_title=true&theme=default&show_icons=true&icon_color=8d8d8d&hide=contribs&include_all_commits=true&locale=cn"
        />
     </picture>
@@ -64,7 +64,7 @@ good morning, good afternoon and good night.
         media="(prefers-color-scheme: dark)"
         srcset="https://quotes-github-readme.vercel.app/api?theme=nord"
        />
-      <img height=190 align=right
+      <img align=right
         src="https://quotes-github-readme.vercel.app/api"
        />
     </picture>
