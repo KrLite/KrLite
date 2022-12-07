@@ -37,5 +37,25 @@
 </p>
 
 ```
-Sleeping, Do Not Disturb.
+Welcome, passenger.
+In case I don't see you,
+good morning, good afternoon and good night.
 ```
+
+<p>
+  <br />
+</p>
+
+<div align=center>
+  <a href="https://github.com/krlite">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=krlite&hide_title=true&theme=material-palenight&show_icons=true&icon_color=656c90&border_color=4b5169&border_radius=7.5&hide=contribs&include_all_commits=true&locale=cn"
+       />
+      <img align=right
+        src="https://github-readme-stats.vercel.app/api?username=krlite&hide_title=true&theme=default&show_icons=true&icon_color=8d8d8d&border_radius=7.5&hide=contribs&include_all_commits=true&locale=cn"
+       />
+    </picture>
+  </a>
+</div>
