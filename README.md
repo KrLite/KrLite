@@ -18,7 +18,7 @@
       </sub>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="/artwork/logo/pure-outline-w.png?raw=true" />
-        <img align=right height=97 src="/artwork/logo/pure-outline.png?raw=true" />
+        <img align=right height=95 src="/artwork/logo/pure-outline.png?raw=true" />
       </picture>
     </p>
     <p align=left>
