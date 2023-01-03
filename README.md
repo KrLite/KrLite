@@ -2,7 +2,7 @@
   <div align=center>
     <p align=left>
       <sub>
-        <a href="https://github.com/KrLite">
+        <a href="https://github.com">
           <code>←</code>
         </a>
       </sub>
