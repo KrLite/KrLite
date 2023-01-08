@@ -1,24 +1,24 @@
 <h1>
   <div align=center>
     <p align=left>
-      <sub>
+      <sup>
         <a href="https://github.com">
           <code>←</code>
         </a>
-      </sub>
-      <sub>
+      </sup>
+      <sup>
         <a href="https://github.com/KrLite?tab=repositories">
           <code>⌀</code>
         </a>
-      </sub>
-      <sub>
+      </sup>
+      <sup>
         <a href="https://github.com/KrLite/BrokenThoughts">
           <code>=</code>
         </a>
-      </sub>
+      </sup>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="/artwork/logo/Kr-Simplified-Light.png?raw=true" />
-        <img align=right height=87 src="/artwork/logo/Kr-Simplified-Dark.png?raw=true" />
+        <img align=right height=88 src="/artwork/logo/Kr-Simplified-Dark.png?raw=true" />
       </picture>
     </p>
     <p align=left>
