@@ -41,6 +41,6 @@ Stellar burn no matter time fall
 Winter, summer, spring, and fall
 
 
-Why not have a try, once
+Why not push it once,
 against the acceleration of fall
 ```
