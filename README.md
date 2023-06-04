@@ -9,10 +9,6 @@
       src="/artwork/logo/KrLite Worlds_Sketch Black.png?raw=true"
     />
   </picture>
-  <h3>
-    <br />
-    <code>&nbsp;坚守此岸。</code>
-  </h3>
   <br />
   <picture>
     <source
