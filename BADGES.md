@@ -7,7 +7,7 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Sketch White.png?raw=true"
     />
-    <img height="150" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Sketch Black.png?raw=true" />
+    <img width="150" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Sketch Black.png?raw=true" />
   </picture>
   
   <br />
@@ -18,7 +18,7 @@
             media="(prefers-color-scheme: dark)"
             srcset="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Pure_Sketch White.png?raw=true"
     />
-    <img height="150" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Pure_Sketch Black.png?raw=true" />
+    <img width="150" src="https://github.com/KrLite/KrLite/blob/main/artwork/logo/KrLite Worlds_Pure_Sketch Black.png?raw=true" />
   </picture>
   
   <br />
