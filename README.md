@@ -5,7 +5,7 @@
       srcset="/artwork/logo/KrLite Worlds_Sketch White.png?raw=true"
     />
     <img
-      height="475"
+      width="475"
       src="/artwork/logo/KrLite Worlds_Sketch Black.png?raw=true"
     />
   </picture>
