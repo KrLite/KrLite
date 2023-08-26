@@ -26,7 +26,7 @@
         srcset="artwork/logo/KrLite%20Worlds_Logo%20White.png?raw=true"
        />
       <img
-        height="22"
+        height="20"
         src="artwork/logo/KrLite%20Worlds_Logo%20Black.png?raw=true"
        />
       </picture>
