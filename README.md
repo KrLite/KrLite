@@ -2,11 +2,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="artwork/logo/dark/worlds-pure.png?raw=true"
+      srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-pure.png?raw=true"
     />
     <img
       width="475"
-      src="/artwork/logo/light/worlds-pure.png?raw=true"
+      src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-pure.png?raw=true"
     />
   </picture>
 </div>
@@ -23,11 +23,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="artwork/logo/dark/worlds.png?raw=true"
+        srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds.png?raw=true"
        />
       <img
         height="20"
-        src="artwork/logo/light/worlds.png?raw=true"
+        src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds.png?raw=true"
        />
       </picture>
   </a>
