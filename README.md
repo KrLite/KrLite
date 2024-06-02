@@ -1,14 +1,16 @@
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-pure.png?raw=true"
-    />
-    <img
-      width="475"
-      src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-pure.png?raw=true"
-    />
-  </picture>
+  <a href="https://krlite.github.io">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-pure.png?raw=true"
+      />
+      <img
+        width="475"
+        src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-pure.png?raw=true"
+      />
+    </picture>
+  </a>
 </div>
 
 <br />
