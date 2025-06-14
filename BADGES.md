@@ -1,40 +1,16 @@
-> `Logos`
+> `Logo`
 
 <div align="center">
-  <!--SKETCH LOGO-->
+  <!--CODE-->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-sketch.png?raw=true"
+      srcset="https://github.com/KrLite/KrLite/blob/artwork/KrLite~dark@1x.png?raw=true"
     />
-    <img width="150" src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-sketch.png?raw=true" />
-  </picture>
-
-  <br />
-
-  <!--ICON LOGO-->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-pure.png?raw=true"
-    />
-    <img width="150" src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-pure.png?raw=true" />
-  </picture>
-
-  <br />
-
-  <!--TEXT LOGO-->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds.png?raw=true"
-    />
-    <img width="150" src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds.png?raw=true" />
+    <img height="32" src="https://github.com/KrLite/KrLite/blob/artwork/KrLite@1x.png?raw=true" />
   </picture>
 </div>
 
-#
+> `Copyright`
 
-> `Copyrights`
-
-###### <!--COPYRIGHT--> <p align="center"> <sup>`©️2023`</sup> <a href="https://github.com/KrLite"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds.png?raw=true"/> <img height="18" src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds.png?raw=true" /> </picture> </a> </p>
+###### <!--COPYRIGHT--> <p align="center"> `©️2025→未来` &nbsp; <sub> <a href="https://github.com/KrLite"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KrLite/KrLite/blob/artwork/KrLite Compact~dark@1x.png?raw=true"/> <img height="16" src="https://github.com/KrLite/KrLite/blob/artwork/KrLite Compact@1x.png?raw=true" /> </picture> </a> </sub> </p>
