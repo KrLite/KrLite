@@ -9,7 +9,7 @@
       srcset="https://github.com/KrLite/KrLite/blob/artwork/KrLite~dark@1x.png?raw=true"
      />
     <img
-      height="32"
+      height="24"
       align="right"
       src="https://github.com/KrLite/KrLite/blob/artwork/KrLite@1x.png?raw=true"
      />
