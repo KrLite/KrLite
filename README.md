@@ -1,17 +1,34 @@
-<h4 align="left">
-  <strong>坚守此岸。</strong>
-</h4>
+<div align="center">
+  <a href="https://krlite.github.io">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds-pure.png?raw=true"
+       />
+      <img
+        width="475"
+        src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds-pure.png?raw=true"
+       />
+    </picture>
+  </a>
+</div>
 
-<a href="https://linktr.ee/KrLite">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/KrLite~dark@1x.png?raw=true"
-     />
-    <img
-      height="32"
-      align="right"
-      src="https://github.com/KrLite/KrLite/blob/artwork/KrLite@1x.png?raw=true"
-     />
-  </picture>
-</a>
+<br />
+
+<p align="center">
+  <!--BIO & COPYRIGHT-->
+  <strong>坚守此岸</strong>
+  <br />
+  <a href="https://github.com/KrLite">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/KrLite/KrLite/blob/artwork/logo/dark/worlds.png?raw=true"
+       />
+      <img
+        height="20"
+        src="https://github.com/KrLite/KrLite/blob/artwork/logo/light/worlds.png?raw=true"
+       />
+    </picture>
+  </a>
+</p>
