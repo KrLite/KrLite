@@ -6,12 +6,24 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/KrLite/KrLite/blob/artwork/KrLite~dark@1x.png?raw=true"
+      srcset="https://github.com/KrLite/KrLite/blob/artwork/Code 128/KrLite/KrLite White.png?raw=true"
      />
     <img
       height="24"
       align="right"
-      src="https://github.com/KrLite/KrLite/blob/artwork/KrLite@1x.png?raw=true"
+      src="https://github.com/KrLite/KrLite/blob/artwork/Code 128/KrLite/KrLite Black.png?raw=true"
+     />
+  </picture>
+  
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/KrLite/KrLite/blob/artwork/**blooming**/Icon White.png?raw=true"
+     />
+    <img
+      height="24"
+      align="right"
+      src="https://github.com/KrLite/KrLite/blob/artwork/**blooming**/Icon Black.png?raw=true"
      />
   </picture>
 </a>
